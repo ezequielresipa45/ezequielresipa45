@@ -7,6 +7,7 @@ I'm Develooper Front End Jr 💻
 ### You can find me 🌎:
 
 - Linkedin: https://www.linkedin.com/in/ezequiel-resipa/
+- FrontEnd Mentor: https://www.frontendmentor.io/profile/ezequielresipa45
       
       
  ### My Skills 🥇 
