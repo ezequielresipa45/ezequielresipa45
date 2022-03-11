@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**ezequielresipa45/ezequielresipa45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi I'm Ezequiel Resipa 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Develooper Front End Jr 💻
+
+### You can find me 🌎:
+
+- Linkedin: https://www.linkedin.com/in/ezequiel-resipa/
+      
+      
+ ### My Skills 🥇 
+
+- [x] HTML [⭐⭐⭐⭐⭐]
+- [x] CSS  [⭐⭐⭐⭐⭐]
+- [x] BOOSTRAP [⭐⭐⭐]
+- [x] SASS [⭐⭐⭐]
+- [x] JAVASCRIPT - In Course [⭐⭐⭐]
+- [x] REACT JS - In Course
+- [x] ANGULAR JS - Learning
+- [x] PHP [⭐⭐]
+- [x] SQL [⭐⭐]
+      
+      
+
+
