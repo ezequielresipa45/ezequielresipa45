@@ -12,15 +12,13 @@ I'm Develooper Front End Jr 💻
       
  ### My Skills 🥇 
 
-- [x] HTML [⭐⭐⭐⭐⭐]
-- [x] CSS  [⭐⭐⭐⭐⭐]
-- [x] BOOSTRAP [⭐⭐⭐]
-- [x] SASS [⭐⭐⭐]
-- [x] JAVASCRIPT - In Course [⭐⭐⭐]
-- [x] REACT JS - In Course
-- [x] ANGULAR JS - Learning
-- [x] PHP [⭐⭐]
-- [x] SQL [⭐⭐]
+- [x] HTML
+- [x] CSS 
+- [x] BOOSTRAP
+- [x] SASS
+- [x] JAVASCRIPT 
+- [x] REACT JS
+
       
       
 
